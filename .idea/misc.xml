@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PPB/MenuMakanan/app/src/main/res/drawable-v24/circle_backgorund.xml" value="0.2235" />
+        <entry key="..\:/PPB/MenuMakanan/app/src/main/res/drawable/grey_background.xml" value="0.2235" />
+        <entry key="..\:/PPB/MenuMakanan/app/src/main/res/drawable/top_background.xml" value="0.2235" />
+        <entry key="..\:/PPB/MenuMakanan/app/src/main/res/drawable/white_background.xml" value="0.2235" />
+        <entry key="..\:/PPB/MenuMakanan/app/src/main/res/font/font_makanan.xml" value="0.38666666666666666" />
+        <entry key="..\:/PPB/MenuMakanan/app/src/main/res/layout/activity_detail_makanan.xml" value="0.264" />
+        <entry key="..\:/PPB/MenuMakanan/app/src/main/res/layout/activity_detail_makanan2.xml" value="0.3532608695652174" />
+        <entry key="..\:/PPB/MenuMakanan/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/PPB/MenuMakanan/app/src/main/res/layout/detail.xml" value="0.2965811965811966" />
+        <entry key="..\:/PPB/MenuMakanan/app/src/main/res/layout/item.xml" value="0.29743589743589743" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
